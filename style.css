@@ -1,0 +1,67 @@
+/* style.css */
+body{
+  background: rgba(95, 97, 219, 0.808);
+  color: rgba(2, 2, 2, 0.904);
+  font-size: 25px;
+  font-family: Helvetica;
+  margin:0;
+}
+h1{
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 10px;
+}
+h2 {
+  font-family: Courier;
+  color: rgb(41, 9, 223);
+  font-weight:bold ;
+  font-size: 30px;
+}
+
+
+
+#banner{
+  text-align: center;
+  background-image: url("./img/banner.png");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+
+#footer {
+  padding: 30px;
+  background-image: url("./img/spaceship_battle.png");
+  background-size: cover;
+  text-align: center;
+  text-decoration: solid;
+  font-size: 50px;
+}
+
+#footer li {
+  display: inline-block;
+  padding: 100px;
+  
+}
+
+#footer a:hover {
+ text-size-adjust: 40px;
+}
+
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+
