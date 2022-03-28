@@ -46,14 +46,13 @@ h2 {
   background-image: url("./img/spaceship_battle.png");
   background-size: cover;
   text-align: center;
-  text-decoration: solid;
   font-size: 50px;
 }
 
 #footer li {
   display: inline-block;
   padding: 100px;
-  
+    
 }
 
 #footer a:hover {
@@ -63,5 +62,17 @@ h2 {
 .card{
   padding: 50px;
   font-weight: lighter;
+
 }
 
+.fa-youtube {
+  color:red;
+}
+
+.fa-github {
+  color:black;
+}
+
+.fa-twitter {
+  color:rgb(29 161 242);
+}
