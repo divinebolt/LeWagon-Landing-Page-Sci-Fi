@@ -19,6 +19,17 @@ h2 {
   font-size: 30px;
 }
 
+.btn-block {
+  width: 50%;
+
+}
+
+#apply {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+
+}
 
 
 #banner{
